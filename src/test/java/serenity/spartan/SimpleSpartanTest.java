@@ -1,2 +1,4 @@
-package serenity.spartan;public class SimpleSpartanTest {
+package serenity.spartan;
+
+public class SimpleSpartanTest {
 }
